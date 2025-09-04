@@ -43,11 +43,6 @@
 
 <img align="left" height="200" src="https://i.gifer.com/109N.gif"  />
 
-###
-
-<img src="https://raw.githubusercontent.com/Tamaranrr/Tamaranrr/output/snake.svg" alt="Snake animation" />
-
-###
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Tamaranrr.Tamaranrr&left_color=black&right_color=deeppink"  />
 
